@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6811830005\\MIIA0106-2025-A\\LAB06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47E517C3-979C-4425-B15F-221DB8B25AB7}|LAB6-4\\LAB6-4.vcxproj|D:\\6811830005\\MIIA0106-2025-A\\LAB06\\LAB6-4\\LAB6-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47E517C3-979C-4425-B15F-221DB8B25AB7}|LAB6-4\\LAB6-4.vcxproj|solutionrelative:LAB6-4\\LAB6-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A091058-DB1E-47B6-8579-3530B54E44A9}|LAB6-3\\LAB6-3.vcxproj|D:\\6811830005\\MIIA0106-2025-A\\LAB06\\LAB6-3\\LAB6-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A091058-DB1E-47B6-8579-3530B54E44A9}|LAB6-3\\LAB6-3.vcxproj|solutionrelative:LAB6-3\\LAB6-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8077F5CA-011D-40C1-8F64-CAF2D034891D}|LAB6-2\\LAB6-2.vcxproj|D:\\6811830005\\MIIA0106-2025-A\\LAB06\\LAB6-2\\LAB6-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8077F5CA-011D-40C1-8F64-CAF2D034891D}|LAB6-2\\LAB6-2.vcxproj|solutionrelative:LAB6-2\\LAB6-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C4D0E5-CEBF-4352-BFD0-1C2FDD5784F3}|LAB06\\LAB06.vcxproj|D:\\6811830005\\MIIA0106-2025-A\\LAB06\\LAB06\\LAB06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6C4D0E5-CEBF-4352-BFD0-1C2FDD5784F3}|LAB06\\LAB06.vcxproj|solutionrelative:LAB06\\LAB06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LAB6-2.cpp",
+              "DocumentMoniker": "D:\\6811830005\\MIIA0106-2025-A\\LAB06\\LAB6-2\\LAB6-2.cpp",
+              "RelativeDocumentMoniker": "LAB6-2\\LAB6-2.cpp",
+              "ToolTip": "D:\\6811830005\\MIIA0106-2025-A\\LAB06\\LAB6-2\\LAB6-2.cpp",
+              "RelativeToolTip": "LAB6-2\\LAB6-2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T08:52:41.27Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB6-4.cpp",
+              "DocumentMoniker": "D:\\6811830005\\MIIA0106-2025-A\\LAB06\\LAB6-4\\LAB6-4.cpp",
+              "RelativeDocumentMoniker": "LAB6-4\\LAB6-4.cpp",
+              "ToolTip": "D:\\6811830005\\MIIA0106-2025-A\\LAB06\\LAB6-4\\LAB6-4.cpp",
+              "RelativeToolTip": "LAB6-4\\LAB6-4.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T09:44:36.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB6-3.cpp",
+              "DocumentMoniker": "D:\\6811830005\\MIIA0106-2025-A\\LAB06\\LAB6-3\\LAB6-3.cpp",
+              "RelativeDocumentMoniker": "LAB6-3\\LAB6-3.cpp",
+              "ToolTip": "D:\\6811830005\\MIIA0106-2025-A\\LAB06\\LAB6-3\\LAB6-3.cpp",
+              "RelativeToolTip": "LAB6-3\\LAB6-3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T09:12:32.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LAB06.cpp",
+              "DocumentMoniker": "D:\\6811830005\\MIIA0106-2025-A\\LAB06\\LAB06\\LAB06.cpp",
+              "RelativeDocumentMoniker": "LAB06\\LAB06.cpp",
+              "ToolTip": "D:\\6811830005\\MIIA0106-2025-A\\LAB06\\LAB06\\LAB06.cpp",
+              "RelativeToolTip": "LAB06\\LAB06.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T08:48:47.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
